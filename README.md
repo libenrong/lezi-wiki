@@ -1,28 +1,18 @@
-# vitepress-nav-template
+# # 欢迎
+![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
+![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
-</p>
-<p align="center"> 基于 <b>VitePress</b> 的个人前端导航页面模板 </p>
-<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://notes.fe-mm.com/">作者博客</a></p>
+
+![](/docs/public/README_logo.jpg#pic_center)
+<p align="center"> 驿站的乐子文档 </p>
+
+#### 点击阅读 https://postyizhan.github.io/lezi-wiki/
+
+#### 提交新乐 https://github.com/postyizhan/lezi-wiki/issues
 
 ---
 
-## 预览地址
-
-- <https://fe-nav.netlify.app/nav/>
-- <https://maomao1996.github.io/vitepress-nav-template/nav/>
-
-## 功能
-
-- 新增 `layout-class` 方便更好的自定义样式
-- 默认中文
-- 自带前端导航模块
-- 支持日夜颜色模式自适应切换
-- 支持 Github Pages 直接部署上线
-- 支持 [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-- 支持查看 vue 示例组件源码（使用 [vite-plugin-markdown-preview](https://github.com/jaskang/vite-plugin-markdown-preview)）
-
 ## 说明
 
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996)
+保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
