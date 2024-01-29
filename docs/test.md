@@ -2,7 +2,7 @@
 
 ## medium-zoom
 
-![medium-zoom](/docs/public/logo.png)
+![medium-zoom](logo.png)
 
 ## vite-plugin-markdown-preview
 

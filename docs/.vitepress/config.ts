@@ -24,7 +24,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo: '/docs/public/logo.png',
+    logo: 'logo.png',
 
     nav,
     sidebar,
