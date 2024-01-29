@@ -1,5 +1,5 @@
 {
-  "name": "vitepress-nav-template",
+  "name": "lezi-wiki",
   "type": "module",
   "version": "1.0.0",
   "description": "基于 VitePress 打造个人前端导航网站",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vitepress dev docs --port=8732",
     "build": "vitepress build docs",
-    "build:github": "cross-env APP_BASE_PATH=/vitepress-nav-template/ vitepress build docs",
+    "build:github": "cross-env APP_BASE_PATH=/lezi-wiki/ vitepress build docs",
     "prepare": "husky install",
     "format": "prettier --write ."
   },
