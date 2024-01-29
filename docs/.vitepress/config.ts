@@ -8,7 +8,7 @@ export default defineConfig({
   base: process.env.APP_BASE_PATH || '/',
 
   lang: 'zh-CN',
-  title: '乐子文档',
+  title: '驿站',
   description: '不太聪明的驿站 乐子记录之路',
   head,
 
