@@ -4,10 +4,10 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: 驿站忆行
-  text: ↑臭不要脸的SB
+  text: ↑臭不要脸的笨蛋
   tagline: 乐子文档 导航页面
   image:
-    src: /logo.png
+    src: /docs/public/logo.png
     alt: 乐子文档
   actions:
     - text: QQ频道
@@ -15,8 +15,6 @@ hero:
     - text: 导航页面
       link: /nav/
       theme: alt
-    # - text: mmPlayer
-    #   link: https://netease-music.fe-mm.com
     - text: 测试页
       link: /test
       theme: alt

@@ -24,7 +24,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo: '/logo.png',
+    logo: '/docs/public/logo.png',
 
     nav,
     sidebar,
@@ -37,7 +37,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/postyizhan/lezi-wiki' }],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
+      message: 'https://github.com/maomao1996/vitepress-nav-template',
       copyright: 'Copyright © 2019-present maomao',
     },
 
