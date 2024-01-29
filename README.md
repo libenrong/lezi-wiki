@@ -11,6 +11,7 @@
 
 #### 提交新乐 https://github.com/postyizhan/lezi-wiki/issues
 
+#### 加入频道 https://pd.qq.com/s/3rd0mcb72
 ---
 
 ## 说明
