@@ -4,7 +4,8 @@
 
 
 ![](/docs/public/README_logo.jpg#pic_center)
-<p align="center"> 驿站的乐子文档 </p>
+
+驿站的乐子文档
 
 #### 点击阅读 https://postyizhan.github.io/lezi-wiki/
 
