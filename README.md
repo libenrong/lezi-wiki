@@ -2,10 +2,14 @@
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 
+<center>
 
+# 集百处之乐，成一家之言
 ![](/docs/public/README_logo.jpg#pic_center)
 
 驿站的乐子文档
+
+</center>
 
 #### 点击阅读 https://postyizhan.github.io/lezi-wiki/
 
