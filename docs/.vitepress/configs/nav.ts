@@ -1,7 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const nav: DefaultTheme.Config['nav'] = [
-  { text: 'Wiki导航', link: '/nav/' },
+  { text: '驿站', link: '/nav/' },
   // { text: '茂茂主页', link: 'https://fe-mm.com' },
   // {
   //   text: '茂茂物语',
