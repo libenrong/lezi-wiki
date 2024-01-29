@@ -7,7 +7,7 @@ hero:
   text: ↑臭不要脸的笨蛋
   tagline: 乐子文档 导航页面
   image:
-    src: logo.png
+    src: /logo.png
     alt: 乐子文档
   actions:
     - text: QQ频道
