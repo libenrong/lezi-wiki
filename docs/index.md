@@ -47,7 +47,7 @@ features:
   - icon: 🚉
     title: 驿站与文档
     details: 笨蛋驿站自己的栏
-    link: https://notes.fe-mm.com/mao
+    link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
     linkText: 点击查看
 ---
 
