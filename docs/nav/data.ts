@@ -100,6 +100,53 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: '其他人的瓜',
+    items: [
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '小友老师',
+        desc: '剽窃开源配置倒卖',
+        link: 'https://github.com/CkaDebug/Talents-AntiCheat-Config/blob/main/.github/copySir/fuckyou_xiaoyousir.md',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '圣经-新约-无极福音第 114 章',
+        desc: '想不出骚话',
+        link: 'https://docs.qq.com/document/DQ2pEblBZQXNIdlFD',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: 'E5-5950x瓜',
+        desc: '想不出骚话',
+        link: 'https://docs.qq.com/doc/DSlVLdWF5b0NUZVpI',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: 'pickaxe传',
+        desc: '想不出骚话',
+        link: 'https://docs.qq.com/doc/DRFJZWmR0d2pVblpC',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '因Chem引起的一场笑话',
+        desc: '想不出骚话',
+        link: 'https://shimo.im/docs/wV3VVVeYwYsMWK3y',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '牛战士狂战录',
+        desc: '想不出骚话',
+        link: 'https://docs.qq.com/doc/DQUVXUW9hQ2hSS1dB',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '小鱼鱼大蛇蛇',
+        desc: '想不出骚话',
+        link: 'https://docs.qq.com/doc/DTHlxdXp6bUNVYkNj',
+      },
+    ],
+  },
+  {
     title: '联系',
     items: [
       {
