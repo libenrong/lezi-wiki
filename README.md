@@ -1,5 +1,5 @@
 
-# 集百处之乐，成一家之言
+# Lezi-Wiki
 
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
