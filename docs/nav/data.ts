@@ -162,6 +162,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://hub.fgit.cf/postyizhan/lezi-wiki/issues',
       },
       {
+        icon: 'https://gitee.com/static/images/logo-black.svg?t=158106664',
+        title: 'issues',
+        desc: '投稿观察对象(国内gitee)',
+        link: 'https://gitee.com/postyizhan/lezi-wiki/issues',
+      },
+      {
         icon: 'https://ts1.cn.mm.bing.net/th/id/R-C.21a7297de5dcf6dfcafd6186a44d4e12?rik=Z41hPPPlzrNReA&riu=http%3a%2f%2fwiki.connect.qq.com%2fwp-content%2fuploads%2f2013%2f10%2f02_qq_logo_ver-682x1024.png&ehk=JbdByiSyS9R67ZomaeCVJwqZWyOOgzN0hLQ7iFO77eo%3d&risl=&pid=ImgRaw&r=0',
         title: 'QQ频道',
         desc: '欢迎来到咱的频道!',
