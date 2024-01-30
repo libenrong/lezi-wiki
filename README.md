@@ -1,4 +1,6 @@
-# # 欢迎
+
+# 集百处之乐，成一家之言
+
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 
@@ -22,5 +24,4 @@
 
 ## 说明
 
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996)
-保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 保留版权声明 [[参考]](https://github.com/maomao1996/vitepress-nav-template)
