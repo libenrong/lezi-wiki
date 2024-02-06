@@ -144,6 +144,18 @@ export const NAV_DATA: NavData[] = [
         desc: '想不出骚话',
         link: 'https://docs.qq.com/doc/DTHlxdXp6bUNVYkNj',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '哦传',
+        desc: '用gpt用的',
+        link: 'https://docs.qq.com/doc/DQ1dmdktBdWhBWVlK',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: 'Chem创造10w线程毁灭服务器',
+        desc: '用chem用的',
+        link: 'https://docs.qq.com/doc/DRGxGV0pZRklwcU9H',
+      },
     ],
   },
   {
@@ -154,12 +166,6 @@ export const NAV_DATA: NavData[] = [
         title: 'issues',
         desc: '投稿观察对象',
         link: 'https://github.com/postyizhan/lezi-wiki/issues',
-      },
-      {
-        icon: 'https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png',
-        title: 'issues',
-        desc: '投稿观察对象(加速)',
-        link: 'https://hub.fgit.cf/postyizhan/lezi-wiki/issues',
       },
       {
         icon: 'https://gitee.com/static/images/logo-black.svg?t=158106664',
