@@ -1,4 +1,3 @@
-
 # Lezi-Wiki
 
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
@@ -9,16 +8,13 @@
 
 驿站的乐子文档
 
-### 点击阅读
-#### github: https://postyizhan.github.io/lezi-wiki/
-#### gitee(国内推荐): http://postyizhan.gitee.io/lezi-wiki/
+## 相关
 
-### 提交新乐
-#### github(推荐): https://github.com/postyizhan/lezi-wiki/issues
-#### gitee: https://gitee.com/postyizhan/lezi-wiki/issues
-#### QQ频道: https://pd.qq.com/s/359uxln0a
+- **点击阅读:**&ensp; [[Github]](https://postyizhan.github.io/lezi-wiki)&ensp; [[Gitee]](http://postyizhan.gitee.io/lezi-wiki)
 
-### 加入频道 https://pd.qq.com/s/3rd0mcb72
+- **提交新乐:**&ensp; [[Github]](https://github.com/postyizhan/lezi-wiki/issues/new)&ensp; [[Gitee]](https://gitee.com/postyizhan/lezi-wiki/issues)
+
+- **加入频道:**&ensp; [[QQ频道]](https://pd.qq.com/s/3rd0mcb72)
 
 ---
 
