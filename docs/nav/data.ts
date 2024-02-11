@@ -156,6 +156,12 @@ export const NAV_DATA: NavData[] = [
         desc: '用chem用的',
         link: 'https://docs.qq.com/doc/DRGxGV0pZRklwcU9H',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '提pr把build.yml“汉化”了',
+        desc: '还是汉化大佬',
+        link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
+      },
     ],
   },
   {
