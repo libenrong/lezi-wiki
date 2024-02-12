@@ -13,7 +13,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '芷溪列传',
         desc: '梦开始的地方',
-        link: '/article/芷溪列传',
+        link: '/lezi-wiki/article/芷溪列传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
@@ -106,7 +106,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '小友老师',
         desc: '剽窃开源配置倒卖',
-        link: '/article/小友老师',
+        link: '/lezi-wiki/article/小友老师',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
