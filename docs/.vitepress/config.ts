@@ -7,6 +7,7 @@ import { head, nav, sidebar } from './configs'
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
+
   outDir: '../dist',
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
@@ -14,6 +15,8 @@ export default defineConfig({
   title: 'Lezi-Wiki',
   description: '不太聪明的驿站 乐子记录之路',
   head,
+
+  ignoreDeadLinks: true,
 
   lastUpdated: true,
   cleanUrls: true,
