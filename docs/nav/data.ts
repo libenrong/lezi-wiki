@@ -13,7 +13,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '芷溪列传',
         desc: '梦开始的地方',
-        link: 'https://docs.qq.com/doc/DQ0hWVndHdWVaUFNH',
+        link: '/article/芷溪列传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
@@ -106,7 +106,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '小友老师',
         desc: '剽窃开源配置倒卖',
-        link: 'https://github.com/CkaDebug/Talents-AntiCheat-Config/blob/main/.github/copySir/fuckyou_xiaoyousir.md',
+        link: '/article/小友老师',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
