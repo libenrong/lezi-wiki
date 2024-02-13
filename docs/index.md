@@ -15,14 +15,11 @@ hero:
     - text: 导航页面
       link: /nav/
       theme: alt
-    - text: 测试页
-      link: /test
-      theme: alt
 features:
   - icon: 🤏
     title: 芷溪列传
     details: 梦开始的地方
-    link: https://docs.qq.com/doc/DQ0hWVndHdWVaUFNH
+    link: /article/芷溪列传
     linkText: 点击查看
   - icon: 📘
     title: 程杰列传
