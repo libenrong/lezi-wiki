@@ -162,6 +162,18 @@ export const NAV_DATA: NavData[] = [
         desc: '还是汉化大佬',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '时之殇传',
+        desc: '还得是mi',
+        link: 'https://docs.qq.com/doc/DQ09UV0hXZGxqR0ha',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: 'kali大肘子',
+        desc: 'B站刷到的视频',
+        link: 'https://www.bilibili.com/video/BV1uZ421r7a2',
+      },
     ],
   },
   {
