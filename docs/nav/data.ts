@@ -97,6 +97,12 @@ export const NAV_DATA: NavData[] = [
         desc: '想不出骚话',
         link: 'https://docs.qq.com/doc/DQ2t5T1lVUWNPS2tl',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '世人价传',
+        desc: '问题太简单了,还是我理解太深了',
+        link: '/lezi-wiki/article/世人价传',
+      },
     ],
   },
   {
