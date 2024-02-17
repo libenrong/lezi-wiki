@@ -51,6 +51,7 @@ export const NAV_DATA: NavData[] = [
         desc: '碍国者大佬',
         link: 'lezi-wiki/article/留白传',
       },
+    ],
   },
   {
     title: '短篇',
