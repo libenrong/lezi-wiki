@@ -1,8 +1,4 @@
-Steve传
-
-# 乐子系列丛书导言
-
-导言
+# Steve传
 
 ![descript](/others/Steve传/20240217202247_0.png)
 
