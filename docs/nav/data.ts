@@ -37,7 +37,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '月亮先生传',
         desc: '月亮先生好像跟人打架进去了',
-        link: 'https://docs.qq.com/doc/DQ21sdEtRVE5nWlZT',
+        link: '/lezi-wiki/article/月亮先生传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
