@@ -10,9 +10,9 @@
 
 人已经没了
 
-![descript](others\NellyWidthPlugin传\20240217202158_0.png)
+![descript](/others/NellyWidthPlugin传/20240217202158_0.png)
 
-![descript](others\NellyWidthPlugin传\20240217202158_1.png)
+![descript](/others/NellyWidthPlugin传/20240217202158_1.png)
 
-![descript](others\NellyWidthPlugin传\20240217202158_2.png)
+![descript](/others/NellyWidthPlugin传/20240217202158_2.png)
 
