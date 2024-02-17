@@ -2,6 +2,7 @@
 
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
+![code-size](https://img.shields.io/github/languages/code-size/postyizhan/lezi-wiki)
 
 # 集百处之乐，成一家之言
 ![](/docs/public/README_logo.jpg#pic_center)
