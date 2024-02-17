@@ -19,19 +19,19 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '程杰列传',
         desc: '目前最长之传记',
-        link: 'https://docs.qq.com/doc/DQ1RKbXZlRnFucWtt',
+        link: '/lezi-wiki/article/程杰列传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '土皇帝喵',
         desc: '唯一一个非传记命名',
-        link: 'https://docs.qq.com/doc/DQ2FhQ2tubnRNS2xO',
+        link: '/lezi-wiki/article/土皇帝喵',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '袁纸列传',
         desc: '嘴炮成功案例(?)',
-        link: 'https://docs.qq.com/doc/DQ2VkaUhkSnVkZG5I',
+        link: '/lezi-wiki/article/袁纸列传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
@@ -43,7 +43,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '影传',
         desc: '这个放短篇可惜了',
-        link: 'https://docs.qq.com/doc/DQ3hDZG5XWmZ1QU1P',
+        link: '/lezi-wiki/article/影传',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',

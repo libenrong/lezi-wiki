@@ -24,22 +24,22 @@ features:
   - icon: 📘
     title: 程杰列传
     details: 目前最长之传记
-    link: https://docs.qq.com/doc/DQ1RKbXZlRnFucWtt
+    link: /article/程杰列传
     linkText: 点击查看
   - icon: 🎩
     title: 土皇帝喵
     details: 唯一一个非传记命名
-    link: https://docs.qq.com/doc/DQ2FhQ2tubnRNS2xO
+    link: /article/土皇帝喵
     linkText: 点击查看
   - icon: 🐒
     title: 袁纸列传
     details: 嘴炮成功案例(?)
-    link: https://docs.qq.com/doc/DQ2VkaUhkSnVkZG5I
+    link: /article/袁纸列传
     linkText: 点击查看
   - icon: 🌙
     title: 月亮先生传
     details: 月亮先生好像跟人打架进去了
-    link: https://docs.qq.com/doc/DQ21sdEtRVE5nWlZT
+    link: /article/月亮先生传
     linkText: 点击查看
   - icon: 🚉
     title: 驿站与文档
