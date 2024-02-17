@@ -45,6 +45,11 @@ export const NAV_DATA: NavData[] = [
         desc: '这个放短篇可惜了',
         link: 'https://docs.qq.com/doc/DQ3hDZG5XWmZ1QU1P',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '留白传',
+        desc: '碍国者大佬',
+        link: '/lezi-wiki/article/留白传',
     ],
   },
   {
