@@ -1,11 +1,31 @@
-# Lezi-Wiki
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
+<div align="center">
+  <div>
+    <img src="/docs/public/README_logo.jpg" width="230" alt="Yizhan" />
+  </div>
+  <b>
+    乐子Wiki怎么样
+  </b>
+  <div>
+    <sup>集百处之乐，成一家之言</sup>
+  </div>
+</a>
+
+<hr />
+
 
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 ![code-size](https://img.shields.io/github/repo-size/postyizhan/lezi-wiki)
 
-# 集百处之乐，成一家之言
-![](/docs/public/README_logo.jpg#pic_center)
+![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
 
 驿站的乐子文档
 
