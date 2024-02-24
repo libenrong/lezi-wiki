@@ -11,25 +11,18 @@
     <img src="/docs/public/logo.png" width="230" alt="Yizhan" />
   </div>
   <b>
-    乐子Wiki怎么样
+    乐子Wiki
   </b>
   <div>
     <sup>集百处之乐，成一家之言</sup>
   </div>
 </a>
 
-<hr />
-
-
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 ![code-size](https://img.shields.io/github/repo-size/postyizhan/lezi-wiki)
 
-![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
-
-驿站的乐子文档
-
-## 相关
+---
 
  **点击阅读:**&ensp; [[Github]](https://postyizhan.github.io/lezi-wiki)&ensp; [[Gitee]](http://postyizhan.gitee.io/lezi-wiki)
 
@@ -37,6 +30,7 @@
  
  **加入乐子交流群:**&ensp; [[QQ]](https://qm.qq.com/q/LNnPcvrnGw)
 
+![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
 
 ---
 
@@ -53,15 +47,11 @@
       <a href="https://github.com/postyizhan"
         ><img
           src="https://avatars.githubusercontent.com/u/97342038"
-          width="100px;"
+          width="50px;"
           alt=""
         /><br /><sub><b>驿站</b></sub></a
-      ><br />
-      <p>
-        项目建立者,维护者 <br />
-        <a href="https://github.com/postyizhan"
-        >主页</a>
-      </p>
+      >
+      <p>项目建立者,维护者</p>
       </a>
     </td>
   <!-- lilingfeng -->
@@ -69,15 +59,10 @@
       <a href="https://github.com/lilingfengdev"
         ><img
           src="https://avatars.githubusercontent.com/u/145678359"
-          width="100px;"
+          width="50px;"
           alt=""
-        /><br /><sub><b>lilingfeng</b></sub></a
-      ><br />
-      <p>
-        项目维护者 <br />
-        <a href="https://github.com/lilingfengdev"
-        >主页</a>
-      </p>
+        /><br /><sub><b>lilingfeng</b></sub></a>
+      <p>项目维护者</p>
       </a>
     </td>
   <!-- TheFloodDragon -->
@@ -85,15 +70,11 @@
       <a href="https://github.com/TheFloodDragon"
         ><img
           src="https://avatars.githubusercontent.com/u/75253383"
-          width="100px;"
+          width="50px;"
           alt=""
-        /><br /><sub><b>TheFloodDragon</b></sub></a
-      ><br />
-      <p>
-        项目维护者 <br />
-        <a href="https://github.com/TheFloodDragon"
-        >主页</a>
-      </p>
+        /><br /><sub><b>蛟龙</b></sub></a
+      >
+      <p>项目维护者</p>
       </a>
     </td>
   </tr>
@@ -102,15 +83,11 @@
       <a href="https://www.bilibili.com/video/av984714877/"
         ><img
           src="/docs/public/kunkun.jpg"
-          width="100px;"
+          width="50px;"
           alt=""
         /><br /><sub><b>我家哥哥</b></sub></a
-      ><br />
-      <p>
-        精神领袖 <br />
-        <a href="https://www.bilibili.com/video/av984714877/"
-        >主页</a>
-      </p>
+      >
+      <p>精神领袖</p>
       </a>
     </td>
   </tr>
