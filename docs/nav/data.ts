@@ -10,7 +10,7 @@ export const NAV_DATA: NavData[] = [
     title: '长篇',
     items: [
       {
-        icon: '🤏',
+        icon: 'https://www.emojiall.com/images/240/emojione/1f90f.png',
         title: '芷溪列传',
         desc: '梦开始的地方',
         link: '/lezi-wiki/article/芷溪列传',
