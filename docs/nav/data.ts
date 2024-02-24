@@ -57,21 +57,21 @@ export const NAV_DATA: NavData[] = [
     title: '短篇',
     items: [
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: 'https://www.emojiall.com/images/240/apple/1f4b0.png',
         title: '我传',
-        desc: '想不出骚话',
+        desc: '滚去要你的饭',
         link: '/lezi-wiki/article/我传',
       },
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: 'https://www.emojiall.com/images/240/apple/1f916.png',
         title: '也好传',
-        desc: '想不出骚话',
+        desc: '美国AI就是牛',
         link: '/lezi-wiki/article/也好传',
       },
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: 'https://www.emojiall.com/images/240/apple/1f921.png',
         title: 'kungianka传',
-        desc: '想不出骚话',
+        desc: 'Vape大蛇',
         link: '/lezi-wiki/article/kungianka传',
       },
     ],
