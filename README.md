@@ -34,6 +34,7 @@
  **点击阅读:**&ensp; [[Github]](https://postyizhan.github.io/lezi-wiki)&ensp; [[Gitee]](http://postyizhan.gitee.io/lezi-wiki)
 
  **提交新乐:**&ensp; [[Github]](https://github.com/postyizhan/lezi-wiki/issues/new)&ensp; [[Gitee]](https://gitee.com/postyizhan/lezi-wiki/issues)
+ 
  **加入乐子交流群:**&ensp; [[QQ]](https://qm.qq.com/q/LNnPcvrnGw)
 
 
