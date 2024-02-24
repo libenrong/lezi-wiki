@@ -10,8 +10,8 @@ hero:
     src: /logo.png
     alt: 乐子文档
   actions:
-    - text: QQ频道
-      link: https://pd.qq.com/s/3rd0mcb72
+    - text: QQ交流群
+      link: https://qm.qq.com/q/LNnPcvrnGw
     - text: 导航页面
       link: /nav/
       theme: alt
