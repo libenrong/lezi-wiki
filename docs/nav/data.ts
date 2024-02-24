@@ -92,7 +92,7 @@ export const NAV_DATA: NavData[] = [
         link: '/lezi-wiki/article/NellyWidthPlugin传',
       },
       {
-        icon: 'https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f08202441b13595cfbfbedaa64aea3?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70',
+        icon: '/docs/public/g.jpeg',
         title: 'Steve传',
         desc: '原来你也玩原神',
         link: '/lezi-wiki/article/Steve传',
