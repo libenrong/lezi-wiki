@@ -10,7 +10,7 @@ export const NAV_DATA: NavData[] = [
     title: '长篇',
     items: [
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: '🤏',
         title: '芷溪列传',
         desc: '梦开始的地方',
         link: '/lezi-wiki/article/芷溪列传',
