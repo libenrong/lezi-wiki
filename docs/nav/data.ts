@@ -40,13 +40,13 @@ export const NAV_DATA: NavData[] = [
         link: '/lezi-wiki/article/月亮先生传',
       },
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: 'https://www.emojiall.com/images/240/apple/1f4a2.png',
         title: '影传',
         desc: '这个放短篇可惜了',
         link: '/lezi-wiki/article/影传',
       },
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        icon: 'https://www.emojiall.com/images/240/facebook/1f1e8-1f1f3.png',
         title: '留白传',
         desc: '碍国者大佬',
         link: '/lezi-wiki/article/留白传',
