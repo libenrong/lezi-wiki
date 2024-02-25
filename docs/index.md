@@ -46,6 +46,11 @@ features:
     details: 笨蛋驿站自己的栏
     link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
     linkText: 点击查看
+  - icon: ✈️
+    title: 贡献与鸣谢
+    details: 为乐子维基做出贡献！
+    link: /article/贡献与鸣谢
+    linkText: 点击查看
 ---
 
 <style>
