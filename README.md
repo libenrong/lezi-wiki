@@ -28,7 +28,7 @@
 
  **提交新乐:**&ensp; [[Github]](https://github.com/postyizhan/lezi-wiki/issues/new)&ensp; [[Gitee]](https://gitee.com/postyizhan/lezi-wiki/issues)
  
- **加入乐子交流群:**&ensp; [[QQ]](https://qm.qq.com/q/LNnPcvrnGw)
+ **加入灵长类动物观察俱乐部:**&ensp; [[QQ]](https://qm.qq.com/q/lEnfzgzxjq)
 
 ![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
 

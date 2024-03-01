@@ -11,7 +11,7 @@ hero:
     alt: 乐子文档
   actions:
     - text: QQ交流群
-      link: https://qm.qq.com/q/LNnPcvrnGw
+      link: https://qm.qq.com/q/lEnfzgzxjq
     - text: 导航页面
       link: /nav/
       theme: alt
