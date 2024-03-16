@@ -24,7 +24,7 @@
 
 ![](/others/xxg传/6.png)
 
-![](/others/xxg传/6-1.png)
+![](/others/xxg传/6-1.jpg)
 
 ![](/others/xxg传/7.png)
 
