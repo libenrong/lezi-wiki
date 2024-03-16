@@ -12,7 +12,7 @@
 
 ![](/others/xxg传/3.png)
 
-![](/others/xxg传/3-1.png)
+![](/others/xxg传/3-1.jpg)
 
 # name填什么
 
