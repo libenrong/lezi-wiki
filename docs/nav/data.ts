@@ -74,6 +74,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'Vape大蛇',
         link: '/lezi-wiki/article/kungianka传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f7e7.png',
+        title: 'xxg传',
+        desc: '两年传承的服务器',
+        link: '/lezi-wiki/article/xxg传',
+      },
     ],
   },
   {
