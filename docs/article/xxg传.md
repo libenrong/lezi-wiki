@@ -1,5 +1,7 @@
 # xxg传
 
+大佬QQ：1514846386
+
 # TrMenu啥前置
 
 ![](/others/xxg传/1.png)
@@ -79,3 +81,53 @@
 # 然后在我记录的时候
 
 ![](/others/xxg传/24.png)
+
+# 让我进服看
+
+私聊发给我服务器信息让我进去看
+
+![](/others/xxg传/25.png)
+
+## 服务器揭秘
+
+服里没ia
+
+### 插件的宣传语拿来宣传自己服
+
+![](/others/xxg传/26.png)
+
+### qs实体店
+
+系统商店用qs
+
+![](/others/xxg传/27.png)
+
+### Superior端
+
+他一整个菜单都是复制粘贴的 Superior
+
+![](/others/xxg传/28.png)
+
+### 任渊端
+
+菜单这名字... 你不就是任渊端的东西直接复制粘贴过来了吗
+
+![](/others/xxg传/29.png)
+
+### NotBuild和wg并存
+
+猜测：他不知道wg怎么用,也不想学,就又装了个插件
+
+![](/others/xxg传/30.png)
+
+### B站宣传
+
+评论区说是1.12 所以这和xxg大佬到底啥关系
+
+https://www.bilibili.com/video/BV1CA4m1V7mg
+
+![](/others/xxg传/31.png)
+
+# 后续
+
+![](/others/xxg传/32.png)
