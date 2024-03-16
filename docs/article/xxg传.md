@@ -131,3 +131,7 @@ https://www.bilibili.com/video/BV1CA4m1V7mg
 # 后续
 
 ![](/others/xxg传/32.png)
+
+## 退群了
+
+![](/others/xxg传/33.png)
