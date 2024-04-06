@@ -58,7 +58,7 @@ export const NAV_DATA: NavData[] = [
         link: '/lezi-wiki/article/版主米饭传',
       },
       {
-        icon: 'https://www.emojiall.com/images/60/htc/1f35a.png',
+        icon: 'https://www.emojiall.com/images/120/apple/ios-17.4/1f40b.png',
         title: '鲸鱼传',
         desc: '又一个惜log如金的',
         link: '/lezi-wiki/article/鲸鱼传',
