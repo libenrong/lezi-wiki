@@ -43,7 +43,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/postyizhan/lezi-wiki' }],
 
     footer: {
-      message: 'https://github.com/maomao1996/vitepress-nav-template',
+      message: 'https://github.com/postyizhan/lezi-wiki',
       copyright: 'Copyright © 2019-present maomao',
     },
 
@@ -57,14 +57,14 @@ export default defineConfig({
     },
 
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'postyizhan.lezi-wiki',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'https://github.com/postyizhan/lezi-wiki',
+      repoId: 'R_kgDOLJVBFA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDOLJVBFM4CerGA',
     },
   },
 
