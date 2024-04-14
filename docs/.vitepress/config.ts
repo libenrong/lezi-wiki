@@ -63,7 +63,7 @@ export default defineConfig({
     comment: {
       repo: 'postyizhan/lezi-wiki',
       repoId: 'R_kgDOLJVBFA',
-      category: 'Announcements',
+      category: '评论',
       categoryId: 'DIC_kwDOLJVBFM4CerHO',
     },
   },
