@@ -64,7 +64,7 @@ export default defineConfig({
       repo: 'postyizhan/lezi-wiki',
       repoId: 'R_kgDOLJVBFA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOLJVBFM4CerGA',
+      categoryId: 'DIC_kwDOLJVBFM4CerHO',
     },
   },
 
