@@ -25,7 +25,7 @@
 
 ---
 
- **点击阅读:**&ensp; [[Github]](https://postyizhan.github.io/lezi-wiki)&ensp;
+ **点击阅读:**&ensp; [[vercel]](https://lezi-wiki.yizhan.wiki/)[[Github]](https://postyizhan.github.io/lezi-wiki)&ensp;
 
  **提交新乐:**&ensp; [[Github]](https://github.com/postyizhan/lezi-wiki/issues/new)&ensp;
 
