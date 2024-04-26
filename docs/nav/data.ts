@@ -92,6 +92,12 @@ export const NAV_DATA: NavData[] = [
         desc: '两年传承的服务器',
         link: '/lezi-wiki/article/xxg传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f61c.png',
+        title: '天才少女传',
+        desc: '用dm搓仓库的大神',
+        link: '/lezi-wiki/article/天才少女传',
+      },
     ],
   },
   {
