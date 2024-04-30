@@ -1,11 +1,3 @@
-<!-- markdownlint-configure-file {
-  "MD013": {
-    "code_blocks": false,
-    "tables": false
-  },
-  "MD033": false,
-  "MD041": false
-} -->
 <div align="center">
   <div>
     <img src="/docs/public/logo.png" width="230" alt="Yizhan" />
@@ -16,30 +8,28 @@
   <div>
     <sup>集百处之乐，成一家之言</sup>
   </div>
-</a>
-
 
 ![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
 ![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
 ![code-size](https://img.shields.io/github/repo-size/postyizhan/lezi-wiki)
 
----
+</div>
 
- **点击阅读:**&ensp; [[vercel]](https://lezi.yizhan.wiki/)[[Github]](https://postyizhan.github.io/lezi-wiki)&ensp;
+# 📖 开始阅读
 
- **提交新乐:**&ensp; [[Github]](https://github.com/postyizhan/lezi-wiki/issues/new)&ensp;
+https://lezi.yizhan.wiki
 
- **加入灵长类动物观察俱乐部:**&ensp; [[QQ]](https://qm.qq.com/q/lEnfzgzxjq)
+https://postyizhan.github.io/lezi-wiki
 
 ![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
 
----
+# 🔖 其他
 
-## 说明
+[提交新乐 ![](https://img.shields.io/github/issues/postyizhan/lezi-wiki)](https://github.com/postyizhan/lezi-wiki/issues/new)
 
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 保留版权声明 [[参考]](https://github.com/maomao1996/vitepress-nav-template)
+[企鹅群🐧611076407](https://qm.qq.com/q/lEnfzgzxjq)
 
-## 贡献
+# 🎖 贡献
 
 <table>
   <tr>
@@ -78,7 +68,6 @@
       <p>项目维护者</p>
       </a>
     </td>
-  </tr>
   <!-- kunkun -->
     <td align="center">
       <a href="https://www.bilibili.com/video/av984714877/"
@@ -93,3 +82,7 @@
     </td>
   </tr>
 </table>
+
+# 📢 说明
+
+前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 保留版权声明 [[参考]](https://github.com/maomao1996/vitepress-nav-template)
