@@ -133,6 +133,12 @@ export const NAV_DATA: NavData[] = [
         desc: '问题太简单了,还是我理解太深了',
         link: '/article/世人价传.html',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/apple/ios-12.1/1f9e8.png',
+        title: 'pankuler传',
+        desc: '究极地图炮',
+        link: '/article/pankuler传.html',
+      },
     ],
   },
   {
