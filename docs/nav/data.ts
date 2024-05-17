@@ -98,6 +98,12 @@ export const NAV_DATA: NavData[] = [
         desc: '用dm搓仓库的大神',
         link: '/article/天才少女传.html',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/1f5a5-fe0f.png',
+        title: '青柠传',
+        desc: '爱来自小枫云计算',
+        link: '/article/青柠传.html',
+      },
     ],
   },
   {
