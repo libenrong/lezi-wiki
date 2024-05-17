@@ -3,8 +3,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 驿站忆行
-  text: ↑臭不要脸的笨蛋
+  name: 乐子文档
+  text: 集百处之乐，成一家之言
   tagline: 乐子文档 导航页面
   image:
     src: /logo.png
