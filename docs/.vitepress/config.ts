@@ -9,7 +9,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 export default defineConfig({
 
   outDir: '../dist',
-  base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  base: process.env.VITE_BASE_PATH || '/deploy_react_app_github_pages_vercel',
 
   lang: 'zh-CN',
   title: 'Lezi-Wiki',
