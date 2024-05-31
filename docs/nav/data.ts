@@ -104,6 +104,12 @@ export const NAV_DATA: NavData[] = [
         desc: '爱来自小枫云计算',
         link: '/article/青柠传.html',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/symbola/e0032.png',
+        title: '二人传',
+        desc: '双主角模式',
+        link: '/article/二人传.html',
+      },
     ],
   },
   {
@@ -122,7 +128,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/NellyWidthPlugin传.html',
       },
       {
-        icon: '/docs/public/g.jpeg',
+        icon: 'https://www.emojiall.com/images/120/twitter/twemoji-2.3/1f92f.png',
         title: 'Steve传',
         desc: '原来你也玩原神',
         link: '/article/Steve传.html',
