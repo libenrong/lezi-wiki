@@ -19,27 +19,27 @@ features:
   - icon: 🤏
     title: 芷溪列传
     details: 梦开始的地方
-    link: /lezi-wiki/article/芷溪列传
+    link: /article/芷溪列传
     linkText: 点击查看
   - icon: 📘
     title: 程杰列传
     details: 目前最长之传记
-    link: /lezi-wiki/article/程杰列传
+    link: /article/程杰列传
     linkText: 点击查看
   - icon: 🎩
     title: 土皇帝喵
     details: 唯一一个非传记命名
-    link: /lezi-wiki/article/土皇帝喵
+    link: /article/土皇帝喵
     linkText: 点击查看
   - icon: 🐒
     title: 袁纸列传
     details: 嘴炮成功案例(?)
-    link: /lezi-wiki/article/袁纸列传
+    link: /article/袁纸列传
     linkText: 点击查看
   - icon: 🌙
     title: 月亮先生传
     details: 月亮先生好像跟人打架进去了
-    link: /lezi-wiki/article/月亮先生传
+    link: /article/月亮先生传
     linkText: 点击查看
   - icon: 🚉
     title: 驿站与文档
@@ -49,7 +49,7 @@ features:
   - icon: ✈️
     title: 贡献与鸣谢
     details: 为乐子维基做出贡献！
-    link: /lezi-wiki/article/贡献与鸣谢
+    link: /article/贡献与鸣谢
     linkText: 点击查看
 ---
 
