@@ -155,7 +155,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/60/apple/2797.png',
         title: '忍冬藤传',
         desc: '首先排除这是自己的问题',
-        link: '/lezi-wiki/article/pankuler传',
+        link: '/lezi-wiki/article/忍冬藤传',
       },
     ],
   },
