@@ -157,6 +157,12 @@ export const NAV_DATA: NavData[] = [
         desc: '首先排除这是自己的问题',
         link: '/lezi-wiki/article/忍冬藤传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/apple/iphone-os-2.2/1f602.png',
+        title: 'Buku传',
+        desc: '正在整理，欢迎提供素材',
+        link: '/lezi-wiki/article/Buku传',
+      },
     ],
   },
   {
