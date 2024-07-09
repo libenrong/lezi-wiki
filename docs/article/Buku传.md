@@ -137,5 +137,3 @@
 ![](/others/Buku传/42.png)
 
 ![](/others/Buku传/43.png)
-
-![](/others/Buku传/44.png)
