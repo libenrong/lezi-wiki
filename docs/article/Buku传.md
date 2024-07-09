@@ -121,3 +121,21 @@
 # 设置世界别名
 
 ![](/others/Buku传/36.png)
+
+# 占用越高优化越好
+
+![](/others/Buku传/37.png)
+
+![](/others/Buku传/38.png)
+
+![](/others/Buku传/39.png)
+
+![](/others/Buku传/40.png)
+
+![](/others/Buku传/41.png)
+
+![](/others/Buku传/42.png)
+
+![](/others/Buku传/43.png)
+
+![](/others/Buku传/44.png)
