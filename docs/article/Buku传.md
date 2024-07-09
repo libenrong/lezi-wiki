@@ -145,3 +145,29 @@
 ![](/others/Buku传/44.png)
 
 ![](/others/Buku传/45.png)
+
+# 锐评自己的服务器
+
+![](/others/Buku传/45.png)
+
+![](/others/Buku传/46.png)
+
+![](/others/Buku传/47.png)
+
+![](/others/Buku传/48.png)
+
+![](/others/Buku传/49.png)
+
+![](/others/Buku传/50.png)
+
+![](/others/Buku传/51.png)
+
+![](/others/Buku传/52.png)
+
+![](/others/Buku传/53.png)
+
+![](/others/Buku传/54.png)
+
+![](/others/Buku传/55.png)
+
+![](/others/Buku传/56.png)
