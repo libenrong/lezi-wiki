@@ -1,8 +1,21 @@
-# Buku传
+![优化-1](https://github.com/postyizhan/lezi-wiki/assets/96102795/e1ac2f7d-f260-41ca-8856-e40ad682dd73)# Buku传
 
 正在整理，欢迎提供素材
 
-# 不收徒
+# 内存 30G
+
+![](/others/Buku传/内存30G-1.jpg)
+
+# 还是优化大佬
+
+内存 30G 大佬对于优化的看法
+
+![](/others/Buku传/优化-1.jpg)
+
+* 注：分不清基础概念不可怕，可怕的是分不清还自我感觉良好，不听任何的解释
+* 如果你对这部分也有任何疑问请 [点击此处转跳文档](https://yizhan.wiki/NitWikit/Java%E7%89%88/process/maintenance/optimize/go#%E6%A8%A1%E6%8B%9F%E8%B7%9D%E7%A6%BB)
+
+# 优化不收徒
 
 内鬼大佬想当徒弟被拒了
 
@@ -156,6 +169,10 @@
 
 ![](/others/Buku传/48.png)
 
+补充一个挖坟，几个月前吐槽没 MCBBS 没资源帖子了，这不自我描述的吗，会收 MCBBS 影响的都是小白。
+
+![](/others/Buku传/mcbbs-1.jpg)
+
 # 不是做给大佬玩的
 
 ![](/others/Buku传/49.png)
@@ -171,5 +188,11 @@
 ![](/others/Buku传/54.png)
 
 ![](/others/Buku传/55.png)
+
+# 承认自己是大聪明
+
+![](/others/Buku传/大聪明-1.jpg)
+
+
 
 ![](/others/Buku传/56.png)
