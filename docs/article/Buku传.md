@@ -1,4 +1,4 @@
-![优化-1](https://github.com/postyizhan/lezi-wiki/assets/96102795/e1ac2f7d-f260-41ca-8856-e40ad682dd73)# Buku传
+# Buku传
 
 正在整理，欢迎提供素材
 
