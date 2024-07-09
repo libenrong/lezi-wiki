@@ -137,3 +137,11 @@
 ![](/others/Buku传/42.png)
 
 ![](/others/Buku传/43.png)
+
+# qs早该淘汰了
+
+对着qs某分支的开发者说这话，牛逼
+
+![](/others/Buku传/44.png)
+
+![](/others/Buku传/45.png)
