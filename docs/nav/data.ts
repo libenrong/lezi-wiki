@@ -246,6 +246,12 @@ export const NAV_DATA: NavData[] = [
         desc: '说对跑单有阴影结果自己也跑了',
         link: '/lezi-wiki/article/♡传',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '闪星传',
+        desc: '大脑发育不健全只会骚扰群友的傻逼',
+        link: '/lezi-wiki/article/闪星传,
+      },
     ],
   },
   {
