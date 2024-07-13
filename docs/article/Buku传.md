@@ -193,6 +193,49 @@
 
 ![](/others/Buku传/大聪明-1.jpg)
 
-
-
 ![](/others/Buku传/56.png)
+
+# 四年前的优化
+
+https://github.com/Mhy278/MinecraftServerHostGuide/blob/master/Optimization.md
+
+这个文件最后一次更新是在 2021 年
+
+![](/others/Buku传/57.png)
+
+![](/others/Buku传/58.png)
+
+![](/others/Buku传/59.png)
+
+![](/others/Buku传/60.png)
+
+![](/others/Buku传/61.png)
+
+![](/others/Buku传/62.png)
+
+![](/others/Buku传/63.png)
+
+![](/others/Buku传/64.png)
+
+![](/others/Buku传/65.png)
+
+![](/others/Buku传/66.png)
+
+![](/others/Buku传/67.png)
+
+![](/others/Buku传/68.png)
+
+![](/others/Buku传/69.png)
+
+![](/others/Buku传/70.png)
+
+![](/others/Buku传/71.png)
+
+![](/others/Buku传/72.png)
+
+![](/others/Buku传/73.png)
+
+![](/others/Buku传/74.png)
+
+![](/others/Buku传/75.png)
+
