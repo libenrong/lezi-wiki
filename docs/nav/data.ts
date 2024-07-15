@@ -170,6 +170,12 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: 'tinksp管理an',
+        desc: '剽窃开源配置倒卖',
+        link: '/lezi-wiki/article/tinksp管理an',
+      },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '小友老师',
         desc: '剽窃开源配置倒卖',
         link: '/lezi-wiki/article/小友老师',
