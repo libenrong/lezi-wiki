@@ -63,6 +63,12 @@ export const NAV_DATA: NavData[] = [
         desc: '又一个惜log如金的',
         link: '/lezi-wiki/article/鲸鱼传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/apple/iphone-os-2.2/1f602.png',
+        title: 'Buku传',
+        desc: 'buku到了梦寐以求的长篇里',
+        link: '/lezi-wiki/article/Buku传',
+      },
     ],
   },
   {
@@ -156,12 +162,6 @@ export const NAV_DATA: NavData[] = [
         title: '忍冬藤传',
         desc: '首先排除这是自己的问题',
         link: '/lezi-wiki/article/忍冬藤传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/120/apple/iphone-os-2.2/1f602.png',
-        title: 'Buku传',
-        desc: '正在整理，欢迎提供素材',
-        link: '/lezi-wiki/article/Buku传',
       },
     ],
   },

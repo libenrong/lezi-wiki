@@ -280,3 +280,35 @@ https://github.com/Mhy278/MinecraftServerHostGuide/blob/master/Optimization.md
 ![](/others/Buku传/88.png)
 
 ![](/others/Buku传/89.png)
+
+# signshop+ezchestshop
+
+![](/others/Buku传/90.png)
+
+![](/others/Buku传/91.png)
+
+# bosshoppro是最好的菜单
+
+![](/others/Buku传/92.png)
+
+![](/others/Buku传/93.png)
+
+# buku是失业状态
+
+![](/others/Buku传/94.png)
+
+# buku谈论行情
+
+![](/others/Buku传/95.png)
+
+![](/others/Buku传/96.png)
+
+![](/others/Buku传/96-1.png)
+
+![](/others/Buku传/97.png)
+
+# 拒绝
+
+![](/others/Buku传/98.png)
+
+![](/others/Buku传/99.png)
