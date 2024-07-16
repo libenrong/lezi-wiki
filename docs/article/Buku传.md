@@ -239,3 +239,44 @@ https://github.com/Mhy278/MinecraftServerHostGuide/blob/master/Optimization.md
 
 ![](/others/Buku传/75.png)
 
+# 清实体你们用的啥插件
+
+![](/others/Buku传/76.png)
+
+# 需要混子
+
+![](/others/Buku传/77.png)
+
+![](/others/Buku传/78.png)
+
+# 继续清实体
+
+使用插件删除生物是笨蛋中的笨蛋才会做的事，生物如果达到服务器设定的上限则会停止生成. 而被清除后，服务器必须重新生成生物，这个过程也是非常费性能的。
+
+如果你不需要那么多生物，直接调整服务端配置文件参数参数让他不生成那么多即可
+
+![](/others/Buku传/79.png)
+
+![](/others/Buku传/80.png)
+
+![](/others/Buku传/81.png)
+
+![](/others/Buku传/82.png)
+
+![](/others/Buku传/83.png)
+
+![](/others/Buku传/84.png)
+
+# 就是屏蔽稍微懂一些的玩家的
+
+![](/others/Buku传/85.png)
+
+![](/others/Buku传/86.png)
+
+![](/others/Buku传/87.png)
+
+# 一个个扣字扣的凶
+
+![](/others/Buku传/88.png)
+
+![](/others/Buku传/89.png)
