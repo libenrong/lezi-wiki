@@ -312,3 +312,63 @@ https://github.com/Mhy278/MinecraftServerHostGuide/blob/master/Optimization.md
 ![](/others/Buku传/98.png)
 
 ![](/others/Buku传/99.png)
+
+# 检测是手机玩家直接封号
+
+![](/others/Buku传/100.jpg)
+
+# bukuMenu
+
+![](/others/Buku传/101.png)
+
+![](/others/Buku传/102.png)
+
+![](/others/Buku传/103.png)
+
+![](/others/Buku传/104.png)
+
+![](/others/Buku传/105.png)
+
+# 充钱与赞助是一个意思
+
+![](/others/Buku传/106.png)
+
+![](/others/Buku传/107.png)
+
+# buku画的图设计感极强
+
+![](/others/Buku传/108.png)
+
+![](/others/Buku传/109.png)
+
+# 接定制但不保质量
+
+![](/others/Buku传/110.png)
+
+![](/others/Buku传/111.png)
+
+![](/others/Buku传/112.png)
+
+![](/others/Buku传/113.png)
+
+![](/others/Buku传/114.png)
+
+![](/others/Buku传/115.png)
+
+![](/others/Buku传/116.png)
+
+# buku大佬的图
+
+![](/others/Buku传/117.png)
+
+![](/others/Buku传/117-1.jpg)
+
+# buku大佬欢迎扣帽子
+
+![](/others/Buku传/118-1.png)
+
+![](/others/Buku传/118.png)
+
+![](/others/Buku传/119.png)
+
+![](/others/Buku传/120.png)
