@@ -8,6 +8,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
 
+
   outDir: '../dist',
   base: '/',
 
