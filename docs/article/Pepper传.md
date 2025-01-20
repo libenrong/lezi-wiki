@@ -10,6 +10,6 @@
 
 问完被喷了一顿后又跑去Bukkit群骚扰nothing
 
-![](/others/Pepper传/2.jpeg)
+![](/others/Pepper传/2.png)
 
-![](/others/Pepper传/3.jpeg)
+![](/others/Pepper传/3.png)
