@@ -264,6 +264,12 @@ export const NAV_DATA: NavData[] = [
         desc: '全人类感谢',
         link: '/article/5千兆的宽带.html',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '盐析砂糖传',
+        desc: '想不出骚话',
+        link: '/article/盐析砂糖传.html',
+      },
     ],
   },
   {
