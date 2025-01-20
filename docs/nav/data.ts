@@ -234,6 +234,12 @@ export const NAV_DATA: NavData[] = [
         desc: '说对跑单有阴影结果自己也跑了',
         link: '/article/♡传.html',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '5千兆的宽带',
+        desc: '全人类感谢',
+        link: '/article/5千兆的宽带.html',
+      },
     ],
   },
   {
