@@ -372,3 +372,93 @@ https://github.com/Mhy278/MinecraftServerHostGuide/blob/master/Optimization.md
 ![](/others/Buku传/119.png)
 
 ![](/others/Buku传/120.png)
+
+# 沉浸式地皮
+
+buku大佬沉浸式地皮！可以极为有效的降低服务器 TPS！
+
+![](/others/Buku传/121.png)
+
+![](/others/Buku传/122.png)
+
+![](/others/Buku传/123.png)
+
+# java8是1.12.2及以下
+
+又出现了知识点型的错误
+
+![](/others/Buku传/124.png)
+
+# 发包错误是开了外挂
+
+![](/others/Buku传/125.png)
+
+# 在线人数5的“百人服”
+
+![](/others/Buku传/126.png)
+
+这一个不是很乐，但是写上有助于塑造人物形象
+
+![](/others/Buku传/126.png)
+
+# folia?不folia?
+
+![](/others/Buku传/127.png)
+
+![](/others/Buku传/128.png)
+
+![](/others/Buku传/129.png)
+
+![](/others/Buku传/130.png)
+
+![](/others/Buku传/131.png)
+
+![](/others/Buku传/132.png)
+
+![](/others/Buku传/133.png)
+
+# 虚假宣传
+
+![](/others/Buku传/134.png)
+
+![](/others/Buku传/135.png)
+
+![](/others/Buku传/136.png)
+
+![](/others/Buku传/137.png)
+
+![](/others/Buku传/138.png)
+
+# 互联网思维打爆服务器市场
+
+![](/others/Buku传/139.png)
+
+![](/others/Buku传/140.png)
+
+![](/others/Buku传/141.png)
+
+# 那么buku的folia怎么样了呢？
+
+这哥们的构建用仓库
+
+https://github.com/buku1/Folia233
+
+甚至改仓库名，提交只有一个工作流
+
+https://github.com/buku1/Folia233/blob/master/.github/workflows/blank.yml
+
+不是哥们搞半天才提交一个Hello, world你逗我呢
+
+# 只有money才能证明价值
+
+![](/others/Buku传/只有money才能证明价值.jpg)
+
+# 数据甩脸
+
+至今仍然没有看到buku的数据
+
+![](/others/Buku传/数据甩脸.jpg)
+
+# 互联网思维*2
+
+![](/others/Buku传/142.png)
