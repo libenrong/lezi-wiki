@@ -193,6 +193,12 @@ export const NAV_DATA: NavData[] = [
         desc: '让拆那语充满世界',
         link: '/article/Pojun传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/2601-fe0f.png',
+        title: '希哩哩传',
+        desc: '理想主义者',
+        link: '/article/希哩哩传',
+      },
     ],
   },
   {
