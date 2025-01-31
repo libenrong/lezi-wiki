@@ -77,9 +77,9 @@ export default defineConfig({
 
     comment: {
       repo: '8aka-Team/lezi-wiki',
-      repoId: 'R_kgDOLJVBFA',
-      category: 'comment',
-      categoryId: 'DIC_kwDOLJVBFM4CerHO',
+      repoId: 'R_kgDONyM6Fg',
+      category: 'General',
+      categoryId: 'DIC_kwDONyM6Fs4Cmf5F',
     },
   },
 
