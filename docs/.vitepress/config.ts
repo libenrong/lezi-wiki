@@ -8,7 +8,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
   sitemap: {
-    hostname: 'https://lezi.yizhan.wiki'
+    hostname: 'https://lezi.8aka-org'
   },
 
   outDir: '../dist',
@@ -77,9 +77,9 @@ export default defineConfig({
 
     comment: {
       repo: '8aka-Team/lezi-wiki',
-      repoId: 'R_kgDONyM6Fg',
-      category: 'General',
-      categoryId: 'DIC_kwDONyM6Fs4Cmf5F',
+      repoId: 'R_kgDONvQIMA',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDONvQIMM4CoEX7',
     },
   },
 
