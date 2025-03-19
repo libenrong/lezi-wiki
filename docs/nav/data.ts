@@ -69,6 +69,18 @@ export const NAV_DATA: NavData[] = [
         desc: 'buku到了梦寐以求的长篇里',
         link: '/article/Buku传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/apple/iphone-os-2.2/1f602.png',
+        title: '雄鹰传',
+        desc: '都快四十的人了还这么🍬',
+        link: '/article/雄鹰传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/microsoft-teams/1f4d8.png',
+        title: '听风吟传',
+        desc: '典中典，为啥不做个好女生',
+        link: '/article/听风吟传',
+      },
     ],
   },
   {
@@ -121,6 +133,12 @@ export const NAV_DATA: NavData[] = [
         title: '分身传',
         desc: '想不到驿站也有今天',
         link: '/article/分身传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/1faaa.png',
+        title: 'aa传',
+        desc: '“你这个没有靓号的狗，别叫了孩子”',
+        link: '/article/aa传',
       },
     ],
   },
