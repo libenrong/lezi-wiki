@@ -318,12 +318,6 @@ export const NAV_DATA: NavData[] = [
         desc: '全人类感谢',
         link: '/article/5千兆的宽带',
       },
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '盐析砂糖传',
-        desc: '想不出骚话',
-        link: '/article/盐析砂糖传',
-      },
     ],
   },
   {
@@ -333,7 +327,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png',
         title: 'issues',
         desc: '投稿观察对象',
-        link: 'https://github.com/postyizhan/issues',
+        link: 'https://github.com/8aka-team/issues',
       },
       {
         icon: 'https://ts1.cn.mm.bing.net/th/id/R-C.21a7297de5dcf6dfcafd6186a44d4e12?rik=Z41hPPPlzrNReA&riu=http%3a%2f%2fwiki.connect.qq.com%2fwp-content%2fuploads%2f2013%2f10%2f02_qq_logo_ver-682x1024.png&ehk=JbdByiSyS9R67ZomaeCVJwqZWyOOgzN0hLQ7iFO77eo%3d&risl=&pid=ImgRaw&r=0',
