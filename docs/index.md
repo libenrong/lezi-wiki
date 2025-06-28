@@ -10,8 +10,8 @@ hero:
     src: /logo.png
     alt: 乐子文档
   actions:
-    - text: QQ交流群
-      link: https://qm.qq.com/q/lEnfzgzxjq
+    - text: Tg交流群
+      link: https://t.me/lezi_wiki_mc
     - text: 导航页面
       link: /nav/
       theme: alt
