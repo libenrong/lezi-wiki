@@ -84,7 +84,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/microsoft-teams/1f4d8.png',
         title: '樱梦源服务器传',
-        desc: '全球',
+        desc: '我没圈钱！你想收我法院的传票，是么',
         link: '/article/樱梦源服务器传',
       },
     ],
