@@ -87,6 +87,12 @@ export const NAV_DATA: NavData[] = [
         desc: '我没圈钱！你想收我法院的传票，是么',
         link: '/article/樱梦源服务器传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/microsoft/1faaa.png',
+        title: 'XeCraft服务器传（凌天传）',
+        desc: '还不是因为我太强了，嫉妒我牛逼',
+        link: '/article/XeCraft服务器传（凌天传）',
+      },
     ],
   },
   {
