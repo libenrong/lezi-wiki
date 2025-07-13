@@ -221,3 +221,9 @@ https://www.bilibili.com/video/BV1UZGVzPEXL/
 ![](/others/XeCraft服务器传（凌天传）/23-9.png)
 
 ![](/others/XeCraft服务器传（凌天传）/23-9.png)
+
+## 我还会回来的！
+
+ps：当服务器攻击太大被服务商强行 kill 了后
+
+![](/others/XeCraft服务器传（凌天传）/24.png)
