@@ -165,3 +165,59 @@ https://www.bilibili.com/video/BV1UZGVzPEXL/
 ![](/others/XeCraft服务器传（凌天传）/19-7.png)
 
 ![](/others/XeCraft服务器传（凌天传）/19-8.png)
+
+## 扔掉付费插件，支持国产插件（连主城都没保护，估计没做过服务器）
+
+![](/others/XeCraft服务器传（凌天传）/20.png)
+
+![](/others/XeCraft服务器传（凌天传）/20-1.png)
+
+## 我 要 当 神 权 狗 🐕
+
+![](/others/XeCraft服务器传（凌天传）/21.jpg)
+
+## 不会配置领地（果真应了那句话：这货没做过服务器）
+
+![](/others/XeCraft服务器传（凌天传）/22.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-2.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-3.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-4.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-5.png)
+
+![](/others/XeCraft服务器传（凌天传）/22-6.png)
+
+## 你们的攻击“太 垃 圾 啦”
+
+“这种土鳖的攻击手段”
+
+“还是别用在我这大服务器上使用”
+
+“你咋上来就说又被攻击”
+
+![](/others/XeCraft服务器传（凌天传）/23.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-2.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-3.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-4.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-5.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-6.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-7.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-8.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-9.png)
+
+![](/others/XeCraft服务器传（凌天传）/23-9.png)
