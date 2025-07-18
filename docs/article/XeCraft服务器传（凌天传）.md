@@ -227,3 +227,13 @@ https://www.bilibili.com/video/BV1UZGVzPEXL/
 ps：当服务器攻击太大被服务商强行 kill 了后
 
 ![](/others/XeCraft服务器传（凌天传）/24.png)
+
+## DLC-弱智语录
+
+### 再有人骂服，我直接黑客破解它账号用手指删除
+
+![](/others/XeCraft服务器传（凌天传）/25.png)
+
+### 账号丢了数据没了也别来找我，密码注册的狗都会破解
+
+![](/others/XeCraft服务器传（凌天传）/26.png)
