@@ -221,3 +221,109 @@ https://www.bilibili.com/video/BV1UZGVzPEXL/
 ![](/others/XeCraft服务器传（凌天传）/23-9.png)
 
 ![](/others/XeCraft服务器传（凌天传）/23-9.png)
+
+## 我还会回来的！
+
+ps：当服务器攻击太大被服务商强行 kill 了后
+
+![](/others/XeCraft服务器传（凌天传）/24.png)
+
+## “复仇者联盟”
+
+![](/others/XeCraft服务器传（凌天传）/34.png)
+
+## 被打到家里云+内网穿透（连自己 QQ 号都暴露了都不知道）
+
+![](/others/XeCraft服务器传（凌天传）/30.png)
+
+![](/others/XeCraft服务器传（凌天传）/30-1.png)
+
+## 服务器内存《900M》
+
+ps：你不是要开大服务器吗？咋内存分配这么低啊~
+
+![](/others/XeCraft服务器传（凌天传）/37.png)
+
+![](/others/XeCraft服务器传（凌天传）/37-1.png)
+
+## 为什么这么卡呀：为了保护服务器
+
+![](/others/XeCraft服务器传（凌天传）/33.png)
+
+## 我要做“中国版 2b2t”
+
+![](/others/XeCraft服务器传（凌天传）/32.jpg)
+
+## 向樱梦源、听风吟、宝可梦服务器开炮！
+
+ps：这家伙属地图炮的，理解一下
+
+![](/others/XeCraft服务器传（凌天传）/27.png)
+
+![](/others/XeCraft服务器传（凌天传）/27-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/27-2.png)
+
+## 与玩家之间的“隔空对骂”
+
+糟糕急眼了
+
+![](/others/XeCraft服务器传（凌天传）/38.png)
+
+![](/others/XeCraft服务器传（凌天传）/38-1.png)
+
+## 更新了圈钱内容？
+
+![](/others/XeCraft服务器传（凌天传）/41.png)
+
+## DLC-经典（弱智）语录
+
+### 再有人骂服，我直接黑客破解它账号用手指删除
+
+![](/others/XeCraft服务器传（凌天传）/25.png)
+
+### 账号丢了数据没了也别来找我，密码注册的狗都会破解
+
+![](/others/XeCraft服务器传（凌天传）/26.png)
+
+### 服务器现在被哪些不长眼的给打了
+
+![](/others/XeCraft服务器传（凌天传）/28.png)
+
+![](/others/XeCraft服务器传（凌天传）/28-1.png)
+
+### 小学生饭可以不吃，话不能乱讲
+
+![](/others/XeCraft服务器传（凌天传）/29.png)
+
+### 服务器主线都让你流畅死
+
+![](/others/XeCraft服务器传（凌天传）/35.png)
+
+### 服务器即将战神回归！换《终极高配》！
+
+![](/others/XeCraft服务器传（凌天传）/36.png)
+
+### 骂服务器的我开末影龙撞斯他
+
+ps：驯龙高手看多了导致大脑意淫了
+
+![](/others/XeCraft服务器传（凌天传）/39.png)
+
+![](/others/XeCraft服务器传（凌天传）/40.png)
+
+![](/others/XeCraft服务器传（凌天传）/39-1.png)
+
+### 乐子小学生说我买的插件是免费的，说我是 1 米 9 的小学生
+
+![](/others/XeCraft服务器传（凌天传）/42.png)
+
+![](/others/XeCraft服务器传（凌天传）/42-1.jpeg)
+
+### ps：这是什么表情包
+
+![](/others/XeCraft服务器传（凌天传）/31.png)
+
+![](/others/XeCraft服务器传（凌天传）/31-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/31-2.png)
