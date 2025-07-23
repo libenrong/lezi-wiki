@@ -12,8 +12,11 @@ hero:
   actions:
     - text: Tg交流群
       link: https://t.me/lezi_wiki_mc
+      theme: alt
     - text: 导航页面
       link: /nav/
+    - text: 文档说明
+      link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
       theme: alt
 features:
   - icon: 🤏
@@ -55,11 +58,6 @@ features:
     title: XeCraft 服务器传（凌天传）
     details: 还不是因为我太强了，嫉妒我牛逼
     link: /article/XeCraft服务器传（凌天传）
-    linkText: 点击查看
-  - icon: 🚉
-    title: 驿站与文档
-    details: 笨蛋驿站自己的栏
-    link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
     linkText: 点击查看
   - icon: ✈️
     title: 贡献与鸣谢
