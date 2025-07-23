@@ -15,7 +15,6 @@ hero:
       theme: alt
     - text: 导航页面
       link: /nav/
-      theme: light
     - text: 文档说明
       link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
       theme: alt
