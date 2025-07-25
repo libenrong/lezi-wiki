@@ -12,8 +12,11 @@ hero:
   actions:
     - text: Tg交流群
       link: https://t.me/lezi_wiki_mc
+      theme: alt
     - text: 导航页面
       link: /nav/
+    - text: 文档说明
+      link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
       theme: alt
 features:
   - icon: 🤏
@@ -41,9 +44,9 @@ features:
     details: 月亮先生好像跟人打架进去了
     link: /article/月亮先生传
     linkText: 点击查看
-  - icon: 📕
+  - icon: 🌸
     title: 樱梦源服务器传
-    details: 我没圈钱！你想收我法院的传票，是么
+    details: “我没圈钱！你想收我法院的传票，是么”
     link: /article/樱梦源服务器传
     linkText: 点击查看
   - icon: 🦅
@@ -56,12 +59,7 @@ features:
     details: 还不是因为我太强了，嫉妒我牛逼
     link: /article/XeCraft服务器传（凌天传）
     linkText: 点击查看
-  - icon: 🚉
-    title: 驿站与文档
-    details: 笨蛋驿站自己的栏
-    link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
-    linkText: 点击查看
-  - icon: ✈️
+  - icon: 📕
     title: 贡献与鸣谢
     details: 为乐子维基做出贡献！
     link: /article/贡献与鸣谢
