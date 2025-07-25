@@ -276,6 +276,56 @@ ps：这家伙属地图炮的，理解一下
 
 ![](/others/XeCraft服务器传（凌天传）/41.png)
 
+## （本部分待补充名称）
+
+![](/others/XeCraft服务器传（凌天传）/43.png)
+
+![](/others/XeCraft服务器传（凌天传）/43-1.png)
+
+## 攻击声明？
+
+ps：前言不对后嘴，对自己做的事情是一句都不提
+
+![](/others/XeCraft服务器传（凌天传）/45.jpg)
+
+## 腐竹的发言？
+
+ps：原来是首歌呀，谢谢你的分享，我白嫖了哈
+
+![](/others/XeCraft服务器传（凌天传）/47.png)
+
+![](/others/XeCraft服务器传（凌天传）/47-1.png)
+
+## 用假人在别人服务器宣传算了，还跑人家群里闹事，外加《精神胜利法》
+
+ps：我学一下：这叫高情商 懂不懂
+
+![](/others/XeCraft服务器传（凌天传）/48.png)
+
+![](/others/XeCraft服务器传（凌天传）/48-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/48-2.png)
+
+![](/others/XeCraft服务器传（凌天传）/48-3.png)
+
+![](/others/XeCraft服务器传（凌天传）/48-4.png)
+
+### 我勒个认人家爸爸
+
+![](/others/XeCraft服务器传（凌天传）/48-5.jpg)
+
+## 受到《广大网友》的喜爱+声言（不知所云的公布网友信息）
+
+![](/others/XeCraft服务器传（凌天传）/50.png)
+
+![](/others/XeCraft服务器传（凌天传）/50-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/50-2.png)
+
+视频地址：https://www.bilibili.com/video/BV19ygYzoE5b
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114886818406075&bvid=BV19ygYzoE5b&cid=31174757931&p=1" style="width: 700px; height: 500px;" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## DLC-经典（弱智）语录
 
 ### 再有人骂服，我直接黑客破解它账号用手指删除
@@ -320,6 +370,22 @@ ps：驯龙高手看多了导致大脑意淫了
 
 ![](/others/XeCraft服务器传（凌天传）/42-1.jpeg)
 
+### 基岩版最强服务器，0 延迟无敌了 yyds。永远的神。
+
+![](/others/XeCraft服务器传（凌天传）/44.png)
+
+### 香港人玩服务器你们就受着！不是要引战吗！来啊！
+
+ps：还带地域黑，应该是暑假作业少了
+
+![](/others/XeCraft服务器传（凌天传）/49.png)
+
+### 外国人比中国人素质多
+
+ps：你英语咋这么差啊，大小写还打错了
+
+![](/others/XeCraft服务器传（凌天传）/50.jpeg)
+
 ### ps：这是什么表情包
 
 ![](/others/XeCraft服务器传（凌天传）/31.png)
@@ -327,3 +393,9 @@ ps：驯龙高手看多了导致大脑意淫了
 ![](/others/XeCraft服务器传（凌天传）/31-1.png)
 
 ![](/others/XeCraft服务器传（凌天传）/31-2.png)
+
+## 彩蛋-当乐子本人发现本传在记录他后的发言
+
+ps：良心服主？我能看看你有良心吗？
+
+![](/others/XeCraft服务器传（凌天传）/46.png)
