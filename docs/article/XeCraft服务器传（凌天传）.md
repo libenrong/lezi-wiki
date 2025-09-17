@@ -12,6 +12,8 @@
 
 ![](/others/XeCraft服务器传（凌天传）/2-1.png)
 
+![](/others/XeCraft服务器传（凌天传）/2-5.png)
+
 ![](/others/XeCraft服务器传（凌天传）/2-6.png)
 
 ## 使用机器人防止他人弄机器人
@@ -380,6 +382,8 @@ ps：王牌对王牌
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115104284742155&bvid=BV1xhe9zhE1P&cid=31990877462&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+![](/others/XeCraft服务器传（凌天传）/59.jpg)
+
 ## DLC-经典（弱智）语录
 
 ### 再有人骂服，我直接黑客破解它账号用手指删除
@@ -446,9 +450,21 @@ ps：乱咬人这一块
 
 ![](/others/XeCraft服务器传（凌天传）/54.jpg)
 
-### 你要不要玩关我IP，我是大厂家，不缺你这个人
+### 你要不要玩关我qi，我是大厂家，不缺你这个人
 
 ![](/others/XeCraft服务器传（凌天传）/56.jpg)
+
+### 你的法律证据都在我这儿了，你还叫上了？信不信给你告了
+
+![](/others/XeCraft服务器传（凌天传）/57.png)
+
+### 行，大家既然那么想抓着我不放，看来道歉是没有用的了。明天我继续shua瓶打光
+
+![](/others/XeCraft服务器传（凌天传）/58.jpg)
+
+### 我表哥还请dream大神来帮忙打造服务器
+
+![](/others/XeCraft服务器传（凌天传）/60.png)
 
 ### ps：这是什么表情包
 
