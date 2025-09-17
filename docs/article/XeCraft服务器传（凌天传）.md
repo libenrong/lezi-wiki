@@ -12,7 +12,7 @@
 
 ![](/others/XeCraft服务器传（凌天传）/2-1.png)
 
-![](/others/XeCraft服务器传（凌天传）/2-5.png)
+![](/others/XeCraft服务器传（凌天传）/2-6.png)
 
 ## 使用机器人防止他人弄机器人
 
@@ -51,6 +51,10 @@
 “可我依然可以 30 延迟畅玩”
 
 ![](/others/XeCraft服务器传（凌天传）/8.png)
+
+## 《Linux一键安装java21脚本由xecraft官方编写.yml》
+
+![](/others/XeCraft服务器传（凌天传）/52.jpg)
 
 ## 服务器配置爆裂提升？
 
@@ -314,7 +318,7 @@ ps：我学一下：这叫高情商 懂不懂
 
 ![](/others/XeCraft服务器传（凌天传）/48-5.jpg)
 
-## 受到《广大网友》的喜爱+声言（不知所云的公布网友信息）
+## 受到《广大网友》的喜爱+声言（其实“网友”也是串子）
 
 ![](/others/XeCraft服务器传（凌天传）/50.png)
 
@@ -322,9 +326,59 @@ ps：我学一下：这叫高情商 懂不懂
 
 ![](/others/XeCraft服务器传（凌天传）/50-2.png)
 
+![](/others/XeCraft服务器传（凌天传）/50-3.png)
+
 视频地址：https://www.bilibili.com/video/BV19ygYzoE5b
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114886818406075&bvid=BV19ygYzoE5b&cid=31174757931&p=1" style="width: 700px; height: 500px;" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+## 投降（AUV什么态度啊）
+
+![](/others/XeCraft服务器传（凌天传）/51.png)
+
+![](/others/XeCraft服务器传（凌天传）/51-1.jpg)
+
+接下来请欣赏所谓的《道歉》
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114931898785697&bvid=BV1wW8nzpE8F&cid=31342986208&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114999729068598&bvid=BV1XHt8zoESx&cid=31593662929&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+## 买错域名给服务器改名
+
+ps：这个是真难绷了
+
+![](/others/XeCraft服务器传（凌天传）/53.jpg)
+
+![](/others/XeCraft服务器传（凌天传）/53-1.png) 
+
+## 投降后二次作案
+
+ps：刷屏半天没一个人跳槽的🤡一大半还被拦截了
+
+![](/others/XeCraft服务器传（凌天传）/55-4.png)
+
+![](/others/XeCraft服务器传（凌天传）/55-3.png)
+
+![](/others/XeCraft服务器传（凌天传）/55-2.png)
+
+![](/others/XeCraft服务器传（凌天传）/55-1.png)
+
+![](/others/XeCraft服务器传（凌天传）/55.png)
+
+## 服务器网站
+
+ps：抽象构图 nc分子 雨云找了一圈都没这配置的
+
+![](/others/XeCraft服务器传（凌天传）/57.jpg)
+
+![](/others/XeCraft服务器传（凌天传）/57-1.jpg)
+
+## BiliBili宣传片盗樱梦源的
+
+ps：王牌对王牌
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115104284742155&bvid=BV1xhe9zhE1P&cid=31990877462&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## DLC-经典（弱智）语录
 
@@ -386,6 +440,16 @@ ps：你英语咋这么差啊，大小写还打错了
 
 ![](/others/XeCraft服务器传（凌天传）/50.jpeg)
 
+### 法律wiki属于网暴行为，你也犯法了 
+
+ps：乱咬人这一块
+
+![](/others/XeCraft服务器传（凌天传）/54.jpg)
+
+### 你要不要玩关我IP，我是大厂家，不缺你这个人
+
+![](/others/XeCraft服务器传（凌天传）/56.jpg)
+
 ### ps：这是什么表情包
 
 ![](/others/XeCraft服务器传（凌天传）/31.png)
@@ -399,3 +463,5 @@ ps：你英语咋这么差啊，大小写还打错了
 ps：良心服主？我能看看你有良心吗？
 
 ![](/others/XeCraft服务器传（凌天传）/46.png)
+
+![](/others/XeCraft服务器传（凌天传）/46-1.png)
